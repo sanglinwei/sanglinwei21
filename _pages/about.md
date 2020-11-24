@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ## 研究领域
 
 - 图像处理
