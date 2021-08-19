@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Nanjing, China"
+locale                   : "Shenzhen, China"
 title                    : "桑林卫 / Linwei Sang"
 title_separator          : "-"
 name                     : &name "Linwei Sang"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Linwei Sang"
   avatar           : "sanglinwei_2.jpeg"
-  bio              : "东南大学在读硕士"
-  location         : "Southeast University"
+  bio              : "清华大学在读博士"
+  location         : "Tsinghua University"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"

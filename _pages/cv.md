@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Southeast University 2014 - 2018
-* M.S. in Southeast University 2018 - Now
-* Ph.D in Tsinghua-Berkerley Shenzhen Insititue, 2021 (expected)
+* M.S. in Southeast University 2018 - 2021
+* Ph.D in Tsinghua-Berkerley Shenzhen Insititue, 2021
 
 Work experience
 ======
@@ -31,11 +31,11 @@ Skills
 ======
 * MATLAB
 * Python
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Data analysis
+  * Machine learning
+* Operation & research
 * Linux
-* 
+
 
 Publications
 ======
