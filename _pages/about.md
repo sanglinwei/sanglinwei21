@@ -9,6 +9,9 @@ redirect_from:
 ---
 ## Bridge the gap between learning and optimization for energy system
 
+## Introduction 
+I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China,  majoring in electrical engineering. 
+
 ## Researches
 
 - Image-based skills (from OpenCV to CNN-based)

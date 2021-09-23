@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Linwei Sang"
   avatar           : "sanglinwei_2.jpeg"
-  bio              : "清华大学在读博士"
+  bio              : "清华大学在读博士生"
   location         : "Tsinghua University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "sanglinwei21@163.com"
-  researchgate     : "https://www.researchgate.net/profile/Linwei_Sang" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Linwei_Sang" 
   uri              :
   bitbucket        :
   codepen          :
