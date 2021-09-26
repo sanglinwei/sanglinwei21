@@ -10,7 +10,7 @@ redirect_from:
 ## Bridge the gap between learning and optimization for energy system
 
 ## Introduction 
-I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China,  majoring in electrical engineering. I have been supporting Bayern Munich FC since 2011.
+I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China,  majoring in electrical engineering. I'm trying to aim higher and to be a problem solver in energy system by CS and optimization techniques. I have been supporting Bayern Munich FC since 2011.
 
 ## Researches
 
@@ -25,7 +25,7 @@ I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, Ch
 
 ### Focused topics
 
-- Power flow system
+- Power system
 - Demand response
 - Integrated energy system
 - Prediction methods 
@@ -40,11 +40,6 @@ I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, Ch
 - Focus on paper writing 
 - Attend hydro discussion in Qinghai University 2021/9/24-2021/9/26
 
-Education
-======
-* B.S. in Southeast University 2014 - 2018
-* M.S. in Southeast University 2018 - 2021
-* Ph.D student in Tsinghua-Berkerley Shenzhen Insititue, 2021
 
 
 
