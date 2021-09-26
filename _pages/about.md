@@ -10,7 +10,7 @@ redirect_from:
 ## Bridge the gap between learning and optimization for energy system
 
 ## Introduction 
-I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China,  majoring in electrical engineering. I'm trying to aim higher and to be a problem solver in energy system by CS and optimization techniques. I have been supporting Bayern Munich FC since 2011.
+I'm pursing my Ph.d degree advised by Yinliang Xu in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China, which belong to EMS group head by Hongbin Sun. I'm trying to aim higher and to be a problem solver in energy system by CS and optimization techniques. I have been supporting Bayern Munich FC since 2011.
 
 ## Researches
 
@@ -26,9 +26,20 @@ I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, Ch
 ### Focused topics
 
 - Power system
+  > Fast power flow
+  > Online power flow
+  > Economic dispatch
+  > Security constraints unit commitment
 - Demand response
+  > Flexibility aggregation
+  > Online demand response
+  > Aggregation and disaggregation 
 - Integrated energy system
+  > Gas network formulation
+  > Heat network
+  > Hydro resources' consideration
 - Prediction methods 
+
 
 ### Focused methods
 
@@ -37,8 +48,13 @@ I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, Ch
 - Mixed integer optimization (MIO) acceleration
 
 ## Recent News
-- Focus on paper writing 
-- Attend hydro discussion in Qinghai University 2021/9/24-2021/9/26
+
+- Papers
+  > Work in progress
+- Meeting 
+  > Attend hydro discussion in Qinghai University 2021/9/24-2021/9/26
+- Project
+  > Consulting project
 
 
 
