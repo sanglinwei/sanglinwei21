@@ -10,7 +10,7 @@ redirect_from:
 ## Bridge the gap between learning and optimization for energy system
 
 ## Introduction 
-I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China,  majoring in electrical engineering. 
+I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China,  majoring in electrical engineering. I have been supporting Bayern Munich FC since 2011.
 
 ## Researches
 
@@ -36,6 +36,9 @@ I'm pursing my Ph.d degree in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, Ch
 - Deep learning
 - Mixed integer optimization (MIO) acceleration
 
+## Recent News
+- Focus on paper writing 
+- Attend hydro discussion in Qinghai University 2021/9/24-2021/9/26
 
 Education
 ======
