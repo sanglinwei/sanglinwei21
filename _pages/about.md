@@ -26,18 +26,18 @@ I'm pursing my Ph.d degree advised by Yinliang Xu in Tsinghua-Berkeley Shenzhen 
 ### Focused topics
 
 - Power system
-  > Fast power flow
-  > Online power flow
-  > Economic dispatch
-  > Security constraints unit commitment
+  > - Fast power flow
+  > - Online power flow
+  > - Economic dispatch
+  > - Security constraints unit commitment
 - Demand response
-  > Flexibility aggregation
-  > Online demand response
-  > Aggregation and disaggregation 
+  > - Flexibility aggregation
+  > - Online demand response
+  > - Aggregation and disaggregation 
 - Integrated energy system
-  > Gas network formulation
-  > Heat network
-  > Hydro resources' consideration
+  > - Gas network formulation
+  > - Heat network
+  > - Hydro resources' consideration
 - Prediction methods 
 
 
@@ -50,11 +50,11 @@ I'm pursing my Ph.d degree advised by Yinliang Xu in Tsinghua-Berkeley Shenzhen 
 ## Recent News
 
 - Papers
-  > Work in progress
+  > - Work in progress
 - Meeting 
-  > Attend hydro discussion in Qinghai University 2021/9/24-2021/9/26
+  > - Attend hydro discussion in Qinghai University 2021/9/24-2021/9/26
 - Project
-  > Consulting project
+  > - Consulting project
 
 
 
