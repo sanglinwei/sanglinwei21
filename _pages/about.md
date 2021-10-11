@@ -46,6 +46,8 @@ I'm pursing my Ph.d degree advised by Yinliang Xu in Tsinghua-Berkeley Shenzhen 
 - Convex relaxation
 - Deep learning
 - Mixed integer optimization (MIO) acceleration
+- Learn-to-optimize direction
+- Decision-focused methods
 
 ## Recent News
 
