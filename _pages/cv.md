@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Southeast University 2014 - 2018
 * M.S. in Southeast University 2018 - 2021
-* Ph.D in Tsinghua-Berkerley Shenzhen Insititue, 2021
+* Ph.D in Tsinghua-Berkerley Shenzhen Institute, 2021
 
 ## 主要荣誉
 - 2016年获东南大学优秀学生干部
