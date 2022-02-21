@@ -10,7 +10,7 @@ redirect_from:
 ## Bridge the gap between learning and optimization for energy system
 
 ## Introduction 
-I'm pursing my Ph.d degree advised by Yinliang Xu in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China, which belong to EMS group head by Hongbin Sun. I'm trying to aim higher and to be a problem solver in energy system by CS and optimization techniques. I have been supporting Bayern Munich FC since 2011.
+I'm pursing my Ph.d degree advised by Yinliang Xu in Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China, which belong to EMS group head by Hongbin Sun. I'm trying to aim higher and to be a problem solver in energy system by CS and optimization techniques. I have been supporting Bayern Munich FC since 2011. My CV is [here](https://github.com/sanglinwei/CV/blob/master/resume.pdf).
 
 ## Researches
 
