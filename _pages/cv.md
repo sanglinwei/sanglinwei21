@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Southeast University 2014 - 2018
 * M.S. in Southeast University 2018 - 2021
-* Ph.D in Tsinghua-Berkerley Shenzhen Insititue, 2021
+* Ph.D in Tsinghua-Berkerley Shenzhen Institute, 2021
 
 ## 主要荣誉
 - 2016年获东南大学优秀学生干部
@@ -33,7 +33,8 @@ Education
 - “Image-based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve” IEEE Transactions on Sustainable Energy, 发表, 二作，《基于图像处理的风电机组异常数据的检测方法》
 - “自适应幅值比的有源配电网差动保护方案”， 电测与仪表，录用，二作
 - “基于幅相关系的有源配电网多端差动保护方案”，电测与仪表，录用，二作
-- “A Scenario-adaptive Online Learning Algorithm for Demand Response” ，PESGM2020, 录用，一作,《基于需求侧响应的考虑多场景的在线学习算法》
+- “A Scenario-adaptive Online Learning Algorithm for Demand Response” ，PESGM2020, 发表，一作,《基于需求侧响应的考虑多场景的在线学习算法》
+- “Privacy-preserving Hybrid Cloud Framework for Real-time TCL-based Demand Response”, IEEE Transactions on Cloud Computing, 录用，一作
 
 ### 申请专利
 - “基于图像处理的风电机组异常数据的检测方法”，专利，已受理，第二发明人
@@ -41,14 +42,17 @@ Education
 ## 学生工作
 - 2016-2017学年担任东南大学电气工程学院团委宣传部部长
 - 2018-2021担任硕士第六党支委宣传委员
+- 2021至今担任清伯克利博211党支部宣传委员
 
 ## 业余生活
 - 参加东南大学第五十九届运动会4x100项目，获男甲组第三名
 - 参加东南大学""新生杯"足球赛，获第四名
+- 参加大学城迎新杯4x100接力，获第一名
 
 ## 参与科研项目
 - 《主动配电网保护关键技术研究》，浙江双城电气有限公司 （已完成）;
 - 《基于组合在线学习居民负荷聚合控制》，基金项目;
+- 《关于科学规划、开发我国水能资源，助力电力系统消纳新能源的建议》，中科院咨询项目；
 
 Work experience
 ======
