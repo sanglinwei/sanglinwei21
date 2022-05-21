@@ -15,8 +15,9 @@ I'm pursing my Ph.d degree advised by Yinliang Xu in Tsinghua-Berkeley Shenzhen 
 ## Recent News
 
 - Papers
-  > - Our paper "Electricity Price Prediction for Energy Storage System Arbitrage: A Decision-focused Approach" is accepted by IEEE Trans. on Smart Grid, April 2022.
+  > - Our paper "[Electricity Price Prediction for Energy Storage System Arbitrage: A Decision-focused Approach](https://ieeexplore.ieee.org/document/9755891)" is accepted by IEEE Trans. on Smart Grid, April 2022.
 - Meeting 
+  > - Attend CIEEC2022 to make oral speech on "Carbon-aware Integrated Energy System Operation with Demand Response" 2022/5/27-2022/5/29
   > - Attend hydro discussion in Qinghai University 2021/9/24-2021/9/26
 - Project
   > - Consulting project
